@@ -1,0 +1,14 @@
+{
+  "name": "spotify-downloader-api",
+  "version": "1.0.0",
+  "description": "Spotify to MP3 Downloader API using Express and Vercel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
